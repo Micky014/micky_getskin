@@ -8,7 +8,7 @@ Resource to obtain the clothes worn by your character, it can be used for exampl
 
 # ❓ How to use
 - It has only one command called `/getskin`, to which you can pass an (optional) argument which would be the name of the skin.
--
+- Everyone has access to the command so it is recommended that you only start the resource when you need it.
 
 # 👋 Micky014
 - Discord support: https://discord.mickydev.com
