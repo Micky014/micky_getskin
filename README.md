@@ -1,5 +1,5 @@
 # 📁 micky_getskin
-Resource to obtain the clothes worn by your character, it can be used for example to obtain the clothes for jobs.
+Resource to obtain the clothes worn by your character, it can be used for example to obtain the clothes for jobs. It is necessary to have the `skinchanger` script for it to work.
 
 # ⚙️ Configuration
 📂 `../micky_getskin/server.lua`
